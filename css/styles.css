@@ -1,0 +1,23 @@
+body {
+    background-color:#F8F4EA;
+    font-family: "Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif";
+}
+
+h1{
+    color: #579BB1
+}
+
+h3{
+    color: #579BB1
+}
+
+h4{
+    color: #579BB1
+}
+
+hr {
+    width: 20%;
+    border-style: dotted none none;
+    border-width: 8px;
+    border-color: #E1D7C6;
+}
